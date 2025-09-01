@@ -8,8 +8,6 @@
 ---
 ## 📊 Pipeline Flowchart Overview
 
-## 📝 Pipeline Steps (Text List with Illustrations)
-
 **A 🚀 STEP1:** FASTQ Header Modification: (Mate1/Mate2 labelling) - Python script  
 **B 🧹 STEP2:** FASTQ Quality Control and Deduplication using fastp - Bash script  
 **C 🎯 STEP3:** Paired end alignment using Bowtie2 - Bash script  
@@ -49,7 +47,7 @@ A -> B -> C -> D -> E -> F -> G -> H -> I -> J -> K -> L -> M -> N -> O -> P -> 
 
 ---
 
-*End of Point Mutation Analysis Pipeline 🚀*
+*End of Methylation-Associated Point-Mutation Analysis Pipeline 🚀*
 
 ---
 
