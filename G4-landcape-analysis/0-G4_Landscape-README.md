@@ -1,5 +1,5 @@
 # 🧬 Vertebrate Genomes G4-Potential Analysis 🌀  
-### & GC-Retention Analysis Using MAP-MAP
+### & Methylation-associated point-mutation assessement in potential G4-forming regions using MAP-MAP
 
 ---
 
