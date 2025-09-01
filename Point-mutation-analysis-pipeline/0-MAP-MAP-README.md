@@ -1,12 +1,12 @@
 
 # 🧬 Methylation-Associated Point-Mutation Assessment Pipeline 🧬
-# 🧬🧬🧬🧬🧬🧬🧬🧬🧬🧬🧬🧬🧬🧬🧬 MAP-MAP 🧬🧬🧬🧬🧬🧬🧬🧬🧬🧬🧬🧬🧬🧬🧬
+# ( MAP-MAP )
 **Authors: Praveen Kumar and Umashankar Singh**
 **HoMeCellLab - IIT GANDHINAGAR**
 
 *Kumar, P., Morbia, I., Satish, A. L., Datta, S., & Singh, U. (2025). CGGBP1 from higher amniotes restricts cytosine methylation and drives a GC-bias in transcription factor-binding sites at repressed promoters. Transcription, 1–36. [https://doi.org/10.1080/21541264.2025.2533598]*
 ---
-## 📊 Pipeline Flowchart Overview
+## 📊 Stepwise visualization of the pipeline flowchart
 
 **A 🚀 STEP1:** FASTQ Header Modification: (Mate1/Mate2 labelling) - Python script  
 **B 🧹 STEP2:** FASTQ Quality Control and Deduplication using fastp - Bash script  
