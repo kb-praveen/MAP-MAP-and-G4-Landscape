@@ -1,6 +1,5 @@
 
-# 🧬 Methylation Associated Point Mutation Assessment Pipeline (MAP-MAP)  
-and G4-Landscape of Vertebrate Genomes  
+# 🧬 Methylation Associated Point Mutation Assessment Pipeline (MAP-MAP) and G4-Landscape of Vertebrate Genomes  
 
 ---
 
