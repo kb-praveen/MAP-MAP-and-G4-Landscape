@@ -1,5 +1,5 @@
 **********************************************************************************************************
-# Methylation Associated Point Mutation Analysis Pipeline (MAP-MAP) and G4-Landscape of Vertebrate Genomes
+# Methylation Associated Point Mutation Assessment Pipeline (MAP-MAP) and G4-Landscape of Vertebrate Genomes
 **********************************************************************************************************
 ----------------------------------------------------------------------------------------------------------
 **Author**: Praveen Kumar and Umashankar Singh
