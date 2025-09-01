@@ -5,8 +5,12 @@
 **HoMeCellLab - IIT GANDHINAGAR**
 
 *Kumar, P., Morbia, I., Satish, A. L., Datta, S., & Singh, U. (2025). CGGBP1 from higher amniotes restricts cytosine methylation and drives a GC-bias in transcription factor-binding sites at repressed promoters. Transcription, 1–36. [https://doi.org/10.1080/21541264.2025.2533598]*
+
 ---
+
 ## 📊 Stepwise visualization of the pipeline flowchart
+
+*Start of Methylation-Associated Point-Mutation Analysis Pipeline 🚀*
 
 **A 🚀 STEP1:** FASTQ Header Modification: (Mate1/Mate2 labelling) - Python script  
 **B 🧹 STEP2:** FASTQ Quality Control and Deduplication using fastp - Bash script  
@@ -35,6 +39,8 @@
 
 A -> B -> C -> D -> E -> F -> G -> H -> I -> J -> K -> L -> M -> N -> O -> P -> Q -> R -> S -> T -> U -> V -> W -> X
 
+*End of Methylation-Associated Point-Mutation Analysis Pipeline 🚀*
+
 ---
 
 ## 📌 Notes
@@ -44,11 +50,3 @@ A -> B -> C -> D -> E -> F -> G -> H -> I -> J -> K -> L -> M -> N -> O -> P -> 
 - The color shading improves readability and distinction among steps.
 - This flowchart is rendered automatically on GitHub when Mermaid support is enabled.
 - Emojis next to step titles make the flow visually engaging and easier to identify step types.
-
----
-
-*End of Methylation-Associated Point-Mutation Analysis Pipeline 🚀*
-
----
-
-
