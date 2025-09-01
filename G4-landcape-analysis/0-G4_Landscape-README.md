@@ -1,4 +1,4 @@
-# 🧬 Vertebrate Genomes and Promoter G4 Potential Analysis 🌀  
+# 🧬 Vertebrate Genomes G4-Potential Analysis 🌀  
 ### & GC-Retention Analysis Using MAP-MAP
 
 ---
@@ -7,7 +7,7 @@
 This pipeline analyzes the **potential G4 regions** in vertebrate genomes and their promoters across taxa—including five major vertebrate classes:  
 🐟 Fish | 🐸 Amphibia | 🦎 Reptilia | 🐦 Aves | 🦁 Mammalia  
 
-It is coupled with GC-retention analysis, employing the MAP-MAP framework to uncover mutation and methylation patterns related to G-quadruplex (G4) structures.  
+It is coupled with GC-retention analysis, employing the MAP-MAP framework to uncover methylation associated point mutation in potential G4-forming regions in Human genome and influence of various forms of CGGBP1.  
 
 ---
 
