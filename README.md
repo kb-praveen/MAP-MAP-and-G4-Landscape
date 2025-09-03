@@ -44,7 +44,7 @@ This organization provides a **systematic, modular, and user-friendly approach**
 ## ✨ Notes
 
 - 🔧 The pipeline steps are **modular and well-documented** for ease of adaptation and extension.  
-- 📊 Visualization aids such as Mermaid flowcharts and inline comments assist in grasping workflow dependencies.  
+- 📊 Visualization aids such as inline comments assist in grasping workflow dependencies.  
 - 🤝 Contributions and improvements are welcome to advance this resource further.
 
 ---
