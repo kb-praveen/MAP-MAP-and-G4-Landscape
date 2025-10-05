@@ -10,7 +10,7 @@
 
 ## 📊 Stepwise visualization of the pipeline flowchart
 
-*Start of Methylation-Associated Point-Mutation Analysis Pipeline 🚀*
+*Start of Methylation-Associated Point-Mutation Assessment Pipeline 🚀*
 
 **A 🚀 STEP1:** FASTQ Header Modification: (Mate1/Mate2 labelling) - Python script  
 **B 🧹 STEP2:** FASTQ Quality Control and Deduplication using fastp - Bash script  
