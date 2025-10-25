@@ -47,6 +47,3 @@ A -> B -> C -> D -> E -> F -> G -> H -> I -> J -> K -> L -> M -> N -> O -> P -> 
 
 - 🐍 Python scripts are highlighted with 🧬 and 🐍 emojis.
 - 🐚 Bash scripts use tools like 🧹 (cleanup), 🎯 (alignment), 🔄 (processing), etc.
-- The color shading improves readability and distinction among steps.
-- This flowchart is rendered automatically on GitHub when Mermaid support is enabled.
-- Emojis next to step titles make the flow visually engaging and easier to identify step types.
